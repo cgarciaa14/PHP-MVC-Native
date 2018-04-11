@@ -9,5 +9,7 @@ $datos = $per->get_personas();
 //llamada a la vista
 //require_once 'views/personas_view.phtml';
 require_once 'views/inserta_view.phtml';
+
+//actualizacion de este archivo 
 ?>
 
